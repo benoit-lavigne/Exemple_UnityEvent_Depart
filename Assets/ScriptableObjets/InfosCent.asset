@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4e2d891573eabf448186f3607b27630, type: 3}
+  m_Name: InfosCent
+  m_EditorClassIdentifier: 
+  point: 3
+  sonRecuperation: {fileID: 8300000, guid: 898ba5503b73f1b439f2e52f097abcb6, type: 3}
